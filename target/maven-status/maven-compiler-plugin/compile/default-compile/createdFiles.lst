@@ -1,0 +1,17 @@
+com/cbcf/namf/service/NamfCommunicationService.class
+com/cbcf/namf/model/N2InfoContainer.class
+com/cbcf/namf/controller/NamfCommunicationController.class
+com/cbcf/namf/model/N2InfoSubscribeRequest.class
+com/cbcf/namf/config/OpenApiConfig.class
+com/cbcf/namf/model/ApiResponse.class
+com/cbcf/namf/model/N2InfoSubscription.class
+com/cbcf/namf/exception/GlobalExceptionHandler.class
+com/cbcf/namf/repository/N2InfoSubscriptionRepository.class
+com/cbcf/namf/model/SmInfo.class
+com/cbcf/namf/CbcfNamfApplication.class
+com/cbcf/namf/model/NgapData.class
+com/cbcf/namf/model/SNssai.class
+com/cbcf/namf/config/WebConfig.class
+com/cbcf/namf/model/N2InfoContent.class
+com/cbcf/namf/model/N2SmInfo.class
+com/cbcf/namf/model/N2MessageTransferRequest.class
